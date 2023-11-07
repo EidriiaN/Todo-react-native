@@ -1,6 +1,6 @@
 # Todo List App - React Native
 
-![Screenshot](screenshot.png)
+![Screenshot](https://imgur.com/raN1rus)
 
 This is a simple task management app (Todo List) developed in React Native.
 
