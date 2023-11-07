@@ -1,10 +1,5 @@
 # Todo List App - React Native
 
-![2023-11-07 12-57-54 High Res Screenshot]()
-
-<img src="https://github.com/EidriiaN/Todo-react-native/assets/104308856/5bac33d8-8f6e-4e7c-b334-5b6d4d4f3c50" width="48">
-
-
 This is a simple task management app (Todo List) developed in React Native.
 
 ## Description
@@ -20,8 +15,10 @@ This app allows users to manage and track their daily tasks. This straightforwar
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+<img src="https://github.com/EidriiaN/Todo-react-native/assets/104308856/51ad0adf-5a94-4876-8b0f-3045cb4710f5" width="200">
+<img src="https://github.com/EidriiaN/Todo-react-native/assets/104308856/bd35d35b-e88a-417b-8306-c7c66eba1d0d" width="200">
+<img src="https://github.com/EidriiaN/Todo-react-native/assets/104308856/69826c0d-54c9-4d22-b89c-d7f6f1d4b1aa" width="200">
+<img src="https://github.com/EidriiaN/Todo-react-native/assets/104308856/a5d7429e-66c4-460f-845f-f5100a924ae3" width="200">
 
 ## Technologies Used
 
@@ -51,10 +48,6 @@ To run this project on your computer, follow these steps:
    npm start
 
 Expo CLI will start the development server and display a QR code in the terminal. Scan this QR code using the Expo Go app on your mobile device or use an emulator to see the app.
-
-## Author
-
-This project was developed by [Adrian Neagu](https://github.com/user).
 
 
 ---
